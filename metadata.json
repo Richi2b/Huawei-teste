@@ -1,0 +1,6 @@
+{
+  "name": "Huawei Prep Pro Max",
+  "description": "Sistema avançado de preparação e simulação realista para processos seletivos da Huawei (Angola, Graduate, ICT Academy) com correção inteligente por IA, simulador psicotécnico, treinos de voz e relatórios.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
